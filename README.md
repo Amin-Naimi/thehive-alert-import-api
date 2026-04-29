@@ -17,7 +17,3 @@ It parses JSON alerts, extracts relevant security fields, enriches them with MIT
 - Adds tags and custom fields
 
 ---
-
-## Requirements
-```bash
-pip install requests
